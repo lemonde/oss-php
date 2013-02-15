@@ -8,5 +8,6 @@
 	"require": {
 	},
    "require-dev": {
-   }
+   },
+   "license": "GPL-3.0"
 }
